@@ -1,3 +1,9 @@
+0.93:  Sat Aug 12 09:52:05 EDT 2000
+   - jettero installed format.scr ... 'parently I forgot that. :)
+
+0.92:  Sat Aug 12 09:51:09 EDT 2000
+   - jettero screw'd up in the test.pl and left the use in the old namespace ... damn it.  All better now...
+
 0.9:  Fri Aug 11 12:03:04 EDT 2000
    - jettero added the Algorithm:: to the package
 

@@ -10,7 +10,7 @@ require AutoLoader;
 
 @ISA = qw(Exporter DynaLoader);
 @EXPORT = qw( is_mdiff );
-$VERSION = '0.9';
+$VERSION = '0.94';
 
 sub AUTOLOAD {
     my $constname;
